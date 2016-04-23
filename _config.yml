@@ -1,0 +1,28 @@
+name: Perimeterpal.com
+favicon: null
+layout_spectrum: 0.6481297006830573
+typography_spectrum: 0.6006939583458006
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6685701569076627
+  lightness: 0.3713521047029644
+  saturation: 0.406099044252187
+  rhythmicContrast: 0.038511378690600395
+purpose: []
